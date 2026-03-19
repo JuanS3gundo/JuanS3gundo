@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, soy Juan Segundo Giribet</h1>
-<h3 align="center">Estudiante de Sistemas apasionado por la programación y el desarrollo profesional en el ámbito tecnológico.</h3>
+<h3 align="center">Estudiante de Sistemas apasionado por la IA, el desarrollo de software y la tecnología conversacional.</h3>
 
-- 🖥️ Actualmente trabajo en soporte IT.
-- 💻 Mi objetivo es crecer en el área de desarrollo de software.
+- 🤖 Actualmente trabajo como **AI Agent Developer** en [Botmaker](https://www.botmaker.com/), empresa argentina líder en chatbots avanzados con clientes a nivel mundial.
+- 🧠 Diseño e implemento agentes de Inteligencia Artificial y flujos conversacionales usando modelos generativos de IA.
+- 💻 Mi objetivo es seguir creciendo en el área de desarrollo de software e inteligencia artificial.
 - 📚 Me adapto con facilidad a distintos entornos laborales, aportando siempre mi máximo esfuerzo.
-- 🤝 Disfruto del trabajo en equipo y poseo un firme compromiso con el aprendizaje continuo y la mejora constante.
-- 🔍 Busco oportunidades que me permitan evolucionar en roles de programación o IT, contribuir con soluciones innovadoras, y avanzar en mi carrera profesional.
+- 🤝 Disfruto del trabajo en equipo y tengo un firme compromiso con el aprendizaje continuo y la mejora constante.
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
